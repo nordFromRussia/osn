@@ -1,0 +1,1 @@
+pyuic5 01.ui -o name.py
